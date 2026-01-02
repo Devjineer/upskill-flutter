@@ -21,3 +21,7 @@ While I might not know how many phases this will be at the end, but one thing is
    ```bash
       dart run <path to file>
    ```
+
+- Project
+
+   The counter app was used to wrap up the basics, will refactor as I continue to learn.
