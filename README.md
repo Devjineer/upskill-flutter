@@ -11,3 +11,13 @@ While I might not know how many phases this will be at the end, but one thing is
 
 - This is me getting accustomed with the dart programming language syntax used for flutter app development. You will find this in the **./01-syntax**:
    - 01-variables.dart
+   - 02-func.dart
+   - 03-list.dart
+   - 04-map.dart
+   - 05-control.dart
+   - 06-loops.dart
+   - 07-classes.dart
+
+   ```bash
+      dart run <path to file>
+   ```
